@@ -5,4 +5,4 @@ end
 
 say_hello
 
-say_hello("George!")
+say_hello("Kent Beck")
